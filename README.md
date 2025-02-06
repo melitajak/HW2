@@ -1,0 +1,1 @@
+Bioinformatics project with scripts for genomic data analysis. It includes tasks that do data retrieval, genome assembly, annotation analysis and a quality control report for assessing data processing steps. Designed for use in Unix-based environments.
